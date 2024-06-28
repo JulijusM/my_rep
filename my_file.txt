@@ -1,2 +1,7 @@
 a first line of text
 another line of text
+<<<<<<< HEAD
+=======
+this is a line with feature x
+>>>>>>> feature_x
+this is a line with feature x
