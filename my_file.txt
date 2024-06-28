@@ -6,3 +6,4 @@ this is a line with feature x
 >>>>>>> feature_x
 this is a line with feature x
 some changes
+some additional changes from cloned dir
